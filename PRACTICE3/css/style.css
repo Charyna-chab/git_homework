@@ -1,0 +1,11 @@
+.line{
+    text-decoration: underline;
+    color: red;
+}
+.color{
+    color: red;
+    font-size: 30px;
+}
+.text{
+    color: red;
+}
